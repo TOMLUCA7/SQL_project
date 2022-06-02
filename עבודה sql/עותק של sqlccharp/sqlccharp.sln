@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlccharp", "sqlccharp\sqlccharp.csproj", "{1759CC42-6379-405E-9448-D2C8FAF51D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1759CC42-6379-405E-9448-D2C8FAF51D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1759CC42-6379-405E-9448-D2C8FAF51D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1759CC42-6379-405E-9448-D2C8FAF51D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1759CC42-6379-405E-9448-D2C8FAF51D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E536797E-6FE6-4FD6-9DBF-931220486510}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Shared/sqlc#/sqlccharp/sqlccharp/sqlccharp.csproj": {}
+  },
+  "projects": {
+    "/Users/Shared/sqlc#/sqlccharp/sqlccharp/sqlccharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Shared/sqlc#/sqlccharp/sqlccharp/sqlccharp.csproj",
+        "projectName": "sqlccharp",
+        "projectPath": "/Users/Shared/sqlc#/sqlccharp/sqlccharp/sqlccharp.csproj",
+        "packagesPath": "/Users/tommizrahi/.nuget/packages/",
+        "outputPath": "/Users/Shared/sqlc#/sqlccharp/sqlccharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tommizrahi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
